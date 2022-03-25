@@ -1,7 +1,7 @@
 {
-  "name": "TRTMP",
+  "name": "Melody",
   "description": "Go live easily and stream videos in Telegram channels.",
-  "repository": "https://github.com/callsmusic/trtmp",
+  "repository": "https://github.com/redmoon0x/Melody.git",
   "env": {
     "BOT_TOKEN": {
       "description": "Your bot’s token obtained from @BotFather.",
