@@ -1,12 +1,14 @@
-# TRTMP
+# Melody
 
 A bot for streaming in Telegram live streams.
+
+<img src="https://wallpaperaccess.com/full/2637470.jpg" width="200" align="center">
 
 ## Get Started
 
 ### Use a Cloud Platform
 
-[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/callsmusic/trtmp)
+[![Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/redmoon0x/Melody.git)
 
 ### Manually
 
